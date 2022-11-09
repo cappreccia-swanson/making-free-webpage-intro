@@ -1,9 +1,3 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [Creating A Free Webpage with GitHub Pages]
-description: [The purpose of this site is to outline how to create a free webpage using GitHub Pages.]
-
-
-_includes/head-custom-google-analytics.html
